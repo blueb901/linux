@@ -1,2 +1,1 @@
-# linux
-study linux
+# study of linux
